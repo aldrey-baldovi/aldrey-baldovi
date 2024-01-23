@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aldrey Baldovi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/wt0cqyJDZDetIDd3ZM/giphy.gif" width="230">
-<p><em>Master in Environmental Enginner at <a href="http://www.ufabc.edu.br">Federal University of ABC</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Last job as Data Analyst at <a href="https://www.serasa.com.br">Serasa Experian</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src= "https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="30">
+<p><em>Degree and Master's degree in Environmental Enginner at <a href="http://www.ufabc.edu.br">Federal University of ABC</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Last job as Data Analyst at <a href="https://www.serasa.com.br">Serasa Experian</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src= "https://media.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif" width="30">
 </em></p>
   
 
